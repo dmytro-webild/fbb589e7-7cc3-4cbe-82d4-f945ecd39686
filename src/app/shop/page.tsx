@@ -106,7 +106,7 @@ export default function ShopPage() {
               price: "$49.99",
               rating: 5,
               reviewCount: "2.3K",
-              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-stylish-hipster-woman-lying-grass-park-girl-weares-trendy-outfit-smiling-model-making-selfie-female-listening-music-via-headphones-top-view_158538-16132.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-stylish-hipster-woman-lying-grass-park-girl-weares-trendy-outfit-smiling-model-making-selfie-female-listening-music-via-headphones-top-view_158538-16132.jpg?_wi=2",
               imageAlt: "Wireless earbuds",
             },
             {
@@ -116,7 +116,7 @@ export default function ShopPage() {
               price: "$34.99",
               rating: 5,
               reviewCount: "1.8K",
-              imageSrc: "http://img.b2bpic.net/free-photo/desk-with-ssd-laptop-top-view_23-2149328276.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/desk-with-ssd-laptop-top-view_23-2149328276.jpg?_wi=2",
               imageAlt: "Power bank",
             },
             {
@@ -126,7 +126,7 @@ export default function ShopPage() {
               price: "$89.99",
               rating: 4,
               reviewCount: "956",
-              imageSrc: "http://img.b2bpic.net/free-photo/glasses-watch-near-laptop-coffee_23-2147777775.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/glasses-watch-near-laptop-coffee_23-2147777775.jpg?_wi=2",
               imageAlt: "Smart watch",
             },
             {
